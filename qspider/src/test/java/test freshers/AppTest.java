@@ -1,4 +1,4 @@
-package com.accenture;
+package test freshers;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
